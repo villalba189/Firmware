@@ -3,7 +3,7 @@
 **1.Acceder a la pagina de nuestro router.**
 
 En mi caso es la siguiente:
-[ENLACE A LA PÁGINA]()
+[ENLACE A LA PÁGINA](https://github.com/serrogard/Firmware/blob/master/Imagenes/enlace%20router.PNG)
 Al acceder a esta nos preguntará un nombre y una contraseña para poder entrar. (Estas credenciales las encontraremos generalmente debajo
 del router o en el manual de este).
 []()
