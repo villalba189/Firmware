@@ -3,10 +3,12 @@
 **1.Acceder a la pagina de nuestro router.**
 
 En mi caso es la siguiente:
+
 ![ENLACE A LA PÁGINA](/Imagenes/enlace%20router.PNG)
+
 Al acceder a esta nos preguntará un nombre y una contraseña para poder entrar. (Estas credenciales las encontraremos generalmente debajo
 del router o en el manual de este).
-[]()
+![Página Principal del Router](/Imagenes/pagina%20router.PNG)
 
 **2.Una vez en la pantalla principal nos dirigiremos al apartado de "System tools".**
 
