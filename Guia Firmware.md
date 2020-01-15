@@ -1,6 +1,6 @@
 # CAMBIAR EL FIRMWARE A UN ROUTER TP-LINK
 
-**1.Acceder a la pagina de nuestro router**
+**1.Acceder a la pagina de nuestro router.**
 
 En mi caso es la siguiente:
 
