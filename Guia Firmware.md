@@ -26,3 +26,5 @@ Yo seleccionare el firmware descargado de ***"DD-WRT".*** (Si NECESITAS DESCARGA
 Despues de darle a ***"upgrade"*** nos saldra una ventana emergente:
 
 ![Ventana Emergente](/Imagenes/aviso%20de%20upgrade.PNG)
+
+Deberemos 
