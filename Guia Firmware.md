@@ -19,6 +19,10 @@ del router o en el manual de este).
 ![Firmware Upgrade](/Imagenes/firmware%20upgrade.PNG)
 
 Una vez aquí ya podremos elegir el archivo del firmware al que queremos actualizarlo dandole al boton de "Seleccionar archivo".
-Yo seleccionare el firmware descargado de **"DD-WRT".** (Si NECESITAS DESCARGALO CLICKAME)[] y le daremos a upgrade.
+Yo seleccionare el firmware descargado de ***"DD-WRT".*** (Si NECESITAS DESCARGALO CLICKAME)[] y le daremos a upgrade.
 
 ![Upgrade](/Imagenes/upgrade.PNG)
+
+Despues de darle a ***"upgrade"*** nos saldra una ventana emergente:
+
+![Ventana Emergente](/Imagenes/aviso%20de%20upgrade.PNG)
