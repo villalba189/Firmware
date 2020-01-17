@@ -13,3 +13,15 @@ En ella buscaremos nuestro router en esta caso un **"tp-link"** y se desplegará
 
 
 ![TPLINK](/imagenes2/modelo.PNG)
+
+Una vez localizado nuestro router junto la modelo haremos click en el, y nos deberemos fijar en la opción de **"webrevert"** que es con la que podremos volver a poner el router de fábrica.
+
+![stock](/imagenes2/stock.PNG)
+
+Pincharemos en la opción de webrevert y nos descargará un archivo ".rar" que tendremos descomprimir y dentro tendremos el firmware que 
+tendremos que usar, este será el resultado:
+
+![rar](/imagenes2/rar.PNG)
+
+![bin](/imagenes2/bin.PNG)
+
