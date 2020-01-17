@@ -5,3 +5,5 @@ Que sistema operativo tiene nuestro router ya que solo se podrá cambiar si nues
 [Lista de Routers y Distribuciones de Firewalls](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
 
 [GUIA PARA CAMBIAR EL FIRMWARE AL ROUTER](https://github.com/serrogard/Firmware/blob/master/Guia%20Firmware.md)
+
+[DOWNGRADEAR EL FIRMWARE DE UN ROUTER A FIRMWARE DE FÁBRICA](https://github.com/serrogard/Firmware/blob/master/Guia%20Firmware.md)
