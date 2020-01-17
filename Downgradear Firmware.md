@@ -29,3 +29,21 @@ tendremos que usar, este será el resultado:
 Ahora entraremos al router, si no sabemos la dirección abriremos el cmd en windows o terminal en linux y haremos un ipconfig en windows o un ifconfig en linux, para saber la puerta de enlace en la que se encuentra nuestro router, una vez obtenida podremos seguir.
 
 ![página](/imagenes2/dd-wrt.PNG)
+
+Una vez estamos en la página nos dirigiremos al apartado de **"Administration"**.
+
+![administration](/imagenes2/administration.PNG)
+
+Luego iremos a **"Firmware Upgrade"** donde ya procederemos a añadir el firmware descargado.
+
+![revert](/imagenes2/factory%20revert.PNG)
+
+Le daremos a upgrade y solo tendremos que esperar un poco.
+
+![proceso](/imagenes2/proceso2.PNG)
+
+Esto tarda unos cuantos segundos, cuando termine esto nos avisará con lo siguiente:
+
+![acabado](/imagenes2/acabado.PNG)
+
+¡Y listo ya volveremos a tener nuestro router de fábrica!
