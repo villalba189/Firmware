@@ -25,3 +25,7 @@ tendremos que usar, este será el resultado:
 
 ![bin](/imagenes2/bin.PNG)
 
+**Ya tenemos el firmware que necesitamos para volver a tener nuestro router de fábrica, ahora nos dirigiremos a la página del router.**
+Ahora entraremos al router, si no sabemos la dirección abriremos el cmd en windows o terminal en linux y haremos un ipconfig en windows o un ifconfig en linux, para saber la puerta de enlace en la que se encuentra nuestro router, una vez obtenida podremos seguir.
+
+![página](/imagenes2/dd-wrt.PNG)
