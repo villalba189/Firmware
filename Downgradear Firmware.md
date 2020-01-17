@@ -9,3 +9,4 @@ Al darle a router "Database" nos aparecerá la siguiente barra de busqueda:
 
 ![Busqueda](/imagenes2/busqueda.PNG)
 
+En ella buscaremos nuestro router en esta caso un tp
