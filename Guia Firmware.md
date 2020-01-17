@@ -19,8 +19,7 @@ del router o en el manual de este).
 ![Firmware Upgrade](/Imagenes/firmware%20upgrade.PNG)
 
 Una vez aquí ya podremos elegir el archivo del firmware al que queremos actualizarlo dandole al boton de "Seleccionar archivo".
-Yo seleccionare el firmware descargado de ***"DD-WRT".*** (Si NECESITAS DESCARGALO CLICKAME)[] y le daremos a upgrade.
-
+Yo seleccionare el firmware descargado de ***"DD-WRT".*** y le daremos a upgrade.
 ![Upgrade](/Imagenes/upgrade.PNG)
 
 Despues de darle a ***"upgrade"*** nos saldra una ventana emergente:
@@ -35,3 +34,4 @@ Deberemos darle a aceptar para seguir con el proceso.
 
 **Podéis apoyaros de este video para conseguir el firmware de "dd-wrt" [PINCHA AQUÍ](https://www.youtube.com/watch?v=onNvPo3RTnY).**
 
+[Volver a la página principal](https://github.com/serrogard/Firmware/edit/master/README.md)
