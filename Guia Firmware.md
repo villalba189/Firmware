@@ -27,4 +27,9 @@ Despues de darle a ***"upgrade"*** nos saldra una ventana emergente:
 
 ![Ventana Emergente](/Imagenes/aviso%20de%20upgrade.PNG)
 
-Deberemos 
+Deberemos darle a aceptar para seguir con el proceso.
+
+![Proceso de Upgrade](/Imagenes/proceso.PNG)
+
+![Finb de Upgrade](/Imagenes/completado.PNG)
+
