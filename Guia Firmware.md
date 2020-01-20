@@ -3,7 +3,6 @@
 **1.Acceder a la pagina de nuestro router.**
 
 En mi caso es la siguiente:
-
 ![ENLACE A LA PÁGINA](/Imagenes/enlace%20router.PNG)
 
 Al acceder a esta nos preguntará un nombre y una contraseña para poder entrar. (Estas credenciales las encontraremos generalmente debajo
