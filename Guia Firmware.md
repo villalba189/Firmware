@@ -33,6 +33,6 @@ Deberemos darle a aceptar para seguir con el proceso.
 
 **Podéis apoyaros de este video para conseguir el firmware de "dd-wrt" [PINCHA AQUÍ](https://www.youtube.com/watch?v=onNvPo3RTnY).**
 **4.Resultado del nuevo firmware.**
-![Completo](/Imagenes2/dd-wrt.PNG)
+![Completo](/imagenes2/dd-wrt.PNG)
 
 [Volver a la página principal](https://serrogard.github.io/Firmware/)
