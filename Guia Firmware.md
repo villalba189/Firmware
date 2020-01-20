@@ -23,7 +23,7 @@ Yo seleccionare el firmware descargado de ***"DD-WRT".*** y le daremos a upgrade
 
 Despues de darle a ***"upgrade"*** nos saldra una ventana emergente:
 
-![Ventana Emergente](/Imagenes/aviso%20de%20upgrade.PNG)
+![Ventana Emergente](/Imagenes/avisoup.PNG)
 
 Deberemos darle a aceptar para seguir con el proceso.
 
