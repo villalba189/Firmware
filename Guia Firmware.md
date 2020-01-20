@@ -7,15 +7,15 @@ En mi caso es la siguiente:
 
 Al acceder a esta nos preguntará un nombre y una contraseña para poder entrar. (Estas credenciales las encontraremos generalmente debajo
 del router o en el manual de este).
-![Página Principal del Router](/Imagenes/pagina%20router.PNG)
+![Página Principal del Router](/Imagenes/pagrouter.PNG)
 
 **2.Una vez en la pantalla principal nos dirigiremos al apartado de "System tools".**
 
-![System tools](/Imagenes/system%20tools.PNG)
+![System tools](/Imagenes/tools.PNG)
 
 **3.Nos dirigeremos dentro del apartado de "System Tools" a "Firmware Upgrade".**
 
-![Firmware Upgrade](/Imagenes/firmware%20upgrade.PNG)
+![Firmware Upgrade](/Imagenes/firmwareup.PNG)
 
 Una vez aquí ya podremos elegir el archivo del firmware al que queremos actualizarlo dandole al boton de "Seleccionar archivo".
 Yo seleccionare el firmware descargado de ***"DD-WRT".*** y le daremos a upgrade.
