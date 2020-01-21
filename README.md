@@ -1,4 +1,4 @@
-# Modificar el firmware de un router tp-link.
+# ¿Cansado siempre del mismo menu en tu router? ¿Se queda escaso de opciones de configuración?
 Vamos a enseñar a flashear un router  de manera muy sencilla, ya que otros firmwares pueden incluir más opciones cómo de configuración, cómo que puede ser más gráfico y sencillo a nivel de usuario.
 ## A tener en cuenta
 Que sistema operativo tiene nuestro router ya que solo se podrá cambiar si nuestro router usa linux, y solo podremos actualizar a otros firmwares de terceros que usen Linux os dejaré un enlace para que veaís cuales usan Linux y cuales no.
