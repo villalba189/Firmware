@@ -31,7 +31,7 @@ Deberemos darle a aceptar para seguir con el proceso.
 
 ![Fin de Upgrade](/Imagenes/completado.PNG)
 
-**Podéis apoyaros de este video para conseguir el firmware de "dd-wrt" [PINCHA AQUÍ](https://www.youtube.com/watch?v=onNvPo3RTnY).**
+**Podéis apoyaros de este video para conseguir el firmware de "dd-wrt"  [PINCHA AQUÍ](https://www.youtube.com/watch?v=onNvPo3RTnY).**
 
 **4.Resultado del nuevo firmware.**
 
